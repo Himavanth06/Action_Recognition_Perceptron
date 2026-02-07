@@ -5,7 +5,7 @@ The model is trained on labeled human action images and classifies an input imag
 
 The system follows a supervised learning approach where images are preprocessed, converted into feature vectors, and learned using a multi-class perceptron model.
 
-🔑 Key Highlights
+ Key Highlights
 
 Perceptron-based neural network implementation
 
@@ -17,7 +17,7 @@ Separate training and testing pipelines
 
 User input image-based action prediction
 
-🛠 Technologies
+Technologies
 
 Python
 
@@ -27,7 +27,7 @@ OpenCV
 
 Perceptron Neural Network
 
-▶️ Usage
+Usage
 
 Train the perceptron model using labeled action images.
 
@@ -35,6 +35,7 @@ Provide a new image as input.
 
 The model predicts the human action performed in the image.
 
-📌 Outcome
+ Outcome
 
 The project demonstrates how a Perceptron Neural Network can be applied to an image-based classification problem and forms a strong foundation for advanced neural network and computer vision systems.
+
